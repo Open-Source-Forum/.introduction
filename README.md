@@ -1,2 +1,3 @@
 # .introduction
 The introduction of the Open Source Forum
+Open Source Forum (OSF) is a community platform focusing on open source software exchange and sharing. Here, members can freely discuss the latest news of open source technology, get the needed software and applications, share development tips and project experience, seek technical support and cooperation opportunities. Whether you are an open source software developer, user or enthusiast, or a technical white, here is the ideal place for you to show your talent, exchange and learn. We are committed to creating an open, active, mutual community atmosphere, so that every member can benefit from it.
